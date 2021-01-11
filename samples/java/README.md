@@ -52,7 +52,7 @@ _pom.xml_
 
 Modify the functionAppName of `install_extension.ps1` (windows) if you change the functionAppName.
 
-_isntall_cacert.ps1_
+_install_cacert.ps1_
 
 ```powershell
 $FunctionAppName = "kafka-function-20190419163130420"
